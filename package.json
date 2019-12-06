@@ -1,0 +1,7 @@
+{
+  "author": "nisten",
+  "license": "MIT",
+  "dependencies": {
+    "r2": "^2.0.1"
+  }
+}
